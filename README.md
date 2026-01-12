@@ -138,11 +138,10 @@ Example:
 ## Demo Video
 
 🎥 **Project Demo Video**
-*Add your demo video link here (YouTube / Google Drive / GitHub Releases)*
-
 ```
 https://github.com/user-attachments/assets/cc936424-db86-4fd0-bc20-dc981b31ea08
 ```
+https://github.com/user-attachments/assets/cc936424-db86-4fd0-bc20-dc981b31ea08
 
 ---
 
