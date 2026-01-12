@@ -5,7 +5,7 @@ A real-time analytics tool to track website traffic using ASP.NET, SignalR, .NET
 https://github.com/user-attachments/assets/cc936424-db86-4fd0-bc20-dc981b31ea08
 
 ## Screens
-![register]()
+![register](https://github.com/user-attachments/assets/7356e5e3-6bec-4e64-ab0e-ab0e50d8b40f)
 
 ![login](https://github.com/user-attachments/assets/f63e7484-b40c-4aac-a92a-56ca583db1a5)
 
@@ -109,7 +109,7 @@ Example:
 
 <table> 
   <tr>
-    <td> <h2>Sign Up/h2> </td>
+    <td> <h2>Sign Up</h2> </td>
     <td> <h2>Sign In</h2> </td>
   </tr>
   <tr>
@@ -119,6 +119,10 @@ Example:
     <td>
       <img src="https://user-images.githubusercontent.com/79749919/234851500-f795bb2e-e243-4e6c-8775-6279dc1ab58a.png">
     </td>
+  </tr>
+  <tr>
+    <td> <h2>/h2> </td>
+    <td> <h2>Sign In</h2> </td>
   </tr>
   <tr>
     <td>
@@ -137,7 +141,7 @@ Example:
 *Add your demo video link here (YouTube / Google Drive / GitHub Releases)*
 
 ```
-https://your-demo-video-link
+https://github.com/user-attachments/assets/cc936424-db86-4fd0-bc20-dc981b31ea08
 ```
 
 ---
