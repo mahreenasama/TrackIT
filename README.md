@@ -1,8 +1,3 @@
-# TrackIT
-A real-time analytics tool to track website traffic using ASP.NET, SignalR, .NET Core Identity, MS SQL Server, JavaScript, jQuery
-
-## Demo
-https://github.com/user-attachments/assets/cc936424-db86-4fd0-bc20-dc981b31ea08
 
 ## Screens
 ![register](https://github.com/user-attachments/assets/7356e5e3-6bec-4e64-ab0e-ab0e50d8b40f)
@@ -114,14 +109,14 @@ Example:
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/7356e5e3-6bec-4e64-ab0e-ab0e50d8b40f.png">
+      <img src="">
     </td>
     <td>
-      <img src="https://user-images.githubusercontent.com/79749919/234851500-f795bb2e-e243-4e6c-8775-6279dc1ab58a.png">
+      <img src="">
     </td>
   </tr>
   <tr>
-    <td> <h2>/h2> </td>
+    <td> <h2></h2> </td>
     <td> <h2>Sign In</h2> </td>
   </tr>
   <tr>
@@ -132,7 +127,7 @@ Example:
       <img src="https://user-images.githubusercontent.com/79749919/234852407-ec7d041e-c732-4570-99a2-17c875b44a7e.png">
     </td>
   </tr>
-
+</table>
 ---
 
 ## Demo Video
@@ -265,8 +260,6 @@ https://github.com/user-attachments/assets/cc936424-db86-4fd0-bc20-dc981b31ea08
 
 **Mahreen Asama**
 Software Engineer
-Java Spring Boot | ASP.NET Core
-Aspiring Master’s student in Germany (2026)
 
 ---
 
